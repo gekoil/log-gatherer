@@ -25,7 +25,7 @@ cache-control: no-cache
   "stdOut": true,
   "stdErr": true,
   "filter": {
-    "name": "foo\'s container name"
+    "name": "foo's container name"
   }
 }
 ```
