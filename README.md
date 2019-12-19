@@ -2,6 +2,12 @@
 Go app that gathers logs from docker containers
 
 # Demo
+- Get & build
+```shell script
+cd $GOPATH/src/github.com/gekoil/log-gatherer
+go get ./...
+```
+
 - Run the server
 ```shell script
 go run ./cmd/log-gatherer/main.go
